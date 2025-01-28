@@ -20,6 +20,7 @@ I’m currently learning how to build and optimize **MERN stacks** (MongoDB, Exp
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" />
 </div>  
 
 #### Backend  
@@ -32,6 +33,7 @@ I’m currently learning how to build and optimize **MERN stacks** (MongoDB, Exp
 <div>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="SQLite3" />
 </div>  
 
 #### Cloud  
