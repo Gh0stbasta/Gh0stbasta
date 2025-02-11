@@ -1,14 +1,14 @@
 ### 🌟 About Me  
 👋 Hi, I’m Gh0stbasta, an aspiring full-stack developer with a passion for cloud technologies and modern web development.  
 
-I’m currently learning how to build and optimize **MERN stacks** (MongoDB, Express.js, React, Node.js) to create scalable and high-performance applications. At the same time, I’m working towards becoming a **Cloud Solutions Architect**, focusing on designing and optimizing cloud-based solutions.  
+I’m currently learning how to build and optimize **full-stack applications** using various technologies. At the same time, I’m working towards becoming a **Cloud Solutions Architect**, focusing on designing and optimizing cloud-based solutions.  
 
 ---
 
 ### 🚀 What I’m Currently Working On  
-- 📚 **Learning**: Building and improving MERN stacks.  
-- 💡 **Projects**: Planning and implementing personal web applications to enhance my skills.  
-- 🌩️ **Cloud Focus**: Developing architectures that leverage cloud services intelligently.  
+- 📚 **Learning**: Building and improving full-stack applications.  
+- 🏰 **Projects**: Planning and implementing personal web applications to enhance my skills.  
+- 🌥️ **Cloud Focus**: Developing architectures that leverage cloud services intelligently.  
 
 ---
 
@@ -29,10 +29,8 @@ I’m currently learning how to build and optimize **MERN stacks** (MongoDB, Exp
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django" />
 </div>  
 
-
 #### Databases  
 <div>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="SQLite3" />
 </div>  
@@ -51,6 +49,6 @@ I’m currently learning how to build and optimize **MERN stacks** (MongoDB, Exp
 ---
 
 ### 🎯 Goals  
-1. Master the MERN stack and develop full-stack projects.  
+1. Master full-stack development and build impactful projects.  
 2. Design and implement cloud architectures for innovative solutions.  
 3. Build a career as an **AWS Solutions Architect**.  
