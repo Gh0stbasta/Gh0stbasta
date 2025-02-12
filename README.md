@@ -27,6 +27,7 @@ I’m currently learning how to build and optimize **full-stack applications** u
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square" alt="Express.js" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
 </div>  
 
 #### Databases  
