@@ -6,7 +6,7 @@
 
 ### ☁️ About Me
 
-I'm a pragmatic technologist on my journey to becoming an **AWS Solutions Architect Associate**.  
+I'm a enthusiastic technologist on my journey to becoming an **AWS Solutions Architect Associate**.  
 Currently retraining as a software developer – focused on real-world projects, learning by building, and making architecture visible.
 
 ---
