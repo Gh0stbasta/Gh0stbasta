@@ -34,7 +34,7 @@ Currently retraining as a software developer – focused on real-world projects,
 
 #### Languages & Frameworks  
 <div>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
@@ -44,7 +44,6 @@ Currently retraining as a software developer – focused on real-world projects,
 #### Cloud & Tools  
 <div>
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
 </div>
 
