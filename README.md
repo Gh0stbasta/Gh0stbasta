@@ -16,7 +16,7 @@ Currently retraining as a software developer – focused on real-world projects,
 - ☁️ **Serverless Projects** – AWS Lambda, API Gateway, DynamoDB
 - ⚙️ **IaC** – CloudFormation, GitHub Actions CI/CD
 - 🧠 **SkillPilot** – my AI-powered learning system
-- 📘 **Documentation** – Weekly reviews, UML, Markdown, Mermaid
+- 📘 **Documentation** – Weekly reviews
 
 ---
 
@@ -26,7 +26,6 @@ Currently retraining as a software developer – focused on real-world projects,
 - **Infrastructure as Code**: CloudFormation (CDK in sight)  
 - **Security**: IAM best practices, scoped roles  
 - **Monitoring**: CloudWatch, structured logs  
-- **CI/CD**: GitHub Actions, versioned rollout (in sight)  
 
 ---
 
