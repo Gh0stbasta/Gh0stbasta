@@ -1,35 +1,27 @@
 # 👋 Hi there, I'm Gh0stbasta
 
-![Badge](https://img.shields.io/badge/AWS-SAA_in_progress-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![Badge](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-### ☁️ About Me
+### ☁️ From Career Change to Cloud Solutions
 
-I'm a enthusiastic technologist on my journey to becoming an **AWS Solutions Architect Associate**.  
-Currently retraining as a software developer – focused on real-world projects, learning by building, and making architecture visible.
+After switching careers into IT, I hit the ground running:  
+Today, I'm building my path to becoming a **cloud-native Solutions Architect** – focused on **AWS, Node.js, and real-world serverless projects**.
+
+I'm currently retraining as a software developer, combining hands-on coding with cloud architecture skills. I learn by doing, iterate fast, and stay deeply curious about how things work (and scale) in the cloud.
 
 ---
 
 ### 🚀 What I’m Working On
 
-- ☁️ **Serverless Projects** – AWS Lambda, API Gateway, DynamoDB
-- ⚙️ **IaC** – CloudFormation, GitHub Actions CI/CD
-- 🧠 **SkillPilot** – my AI-powered learning system
-- 📘 **Documentation** – Weekly reviews
+- **Serverless Architecture** – AWS Lambda, API Gateway, DynamoDB  
+- **IaC & DevOps** – CloudFormation, GitHub Actions, environment automation  
+- **Teamwork** – building a full-stack AWS app with a fellow dev-in-training
 
 ---
 
-### 🧠 Cloud & Architecture Focus
-
-- **Core AWS**: IAM, EC2, Lambda, S3, RDS, DynamoDB  
-- **Infrastructure as Code**: CloudFormation (CDK in sight)  
-- **Security**: IAM best practices, scoped roles  
-- **Monitoring**: CloudWatch, structured logs  
-
----
-
-### 🛠 Dev Foundation
+### 🛠 Full-Stack Tech Stack
 
 #### Languages & Frameworks  
 <div>
@@ -45,30 +37,10 @@ Currently retraining as a software developer – focused on real-world projects,
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 </div>
 
-#### Tooling  
+#### Developer Tooling  
 <div>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
 </div>
 
----
-
-### 📌 Featured Project
-
-➡️ [**solutions-architect-in-progress**](https://github.com/Gh0stbasta/solutions-architect-in-progress)  
-My central learning repo for AWS + TypeScript + architecture projects.
-
----
-
-### 🎯 Current Goals
-
-1. Build a strong portfolio of real, deployable cloud projects  
-2. Pass the **AWS SAA Certification** (Target: mid 2025)  
-3. Maintain deep documentation & weekly reviews  
-4. Practice deployment, testing, and clean code  
-5. Stay consistent & focused – family-friendly learning FTW 👨‍👩‍👧‍👦
-
----
-
-> _“Don’t just learn the cloud — learn to build with it.”_
 
