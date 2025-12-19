@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gh0stbasta
 
-### ☁️ Cloud Native Engineer | Infrastructure as Software
+### ☁️ Cloud Native Engineer
 
 ![Badge](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Badge](https://img.shields.io/badge/Scrum-Professional_Scrum_Master_I-lightgrey?style=flat-square&logo=scrumalliance&logoColor=black)
